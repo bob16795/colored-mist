@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numixpurple
+Comment=A themable modern flat theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Numixpurple
+IconTheme=Numix
+MetacityTheme=Numixpurple
+ButtonLayout=:minimize,maximize,close
+© 2020 GitHub, Inc.
