@@ -13,7 +13,7 @@ ASSETS=scripts/render-assets.sh
 COLORS=scripts/colors.py
 PATCH=scripts/patch.sh
 THEME=Standard
-INSTALL_DIR=/home/john/.themes/$(THEME)
+INSTALL_DIR=$(HOME)/.themes/$(THEME)
 
 all: clean gresource
 

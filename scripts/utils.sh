@@ -5,6 +5,8 @@ do_install() {
 	INSTALL_DIR="$1"
 	GTKDIR="${INSTALL_DIR}/gtk-3.0"
 	GTK320DIR="${INSTALL_DIR}/gtk-3.20"
+  
+  echo $INSTALL_DIR
 
 	install -dm755 "${INSTALL_DIR}"
 

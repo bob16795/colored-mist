@@ -1,15 +1,15 @@
 
-@define-color bg_color #0f090c;
-@define-color fg_color #d9cfd3;
-@define-color selected_bg_color #0f090c;
-@define-color selected_bg_color1 #0f090c;
-@define-color selected_fg_color #666666;
-@define-color base_color #0f090c;
-@define-color text_color #d9cfd3;
+@define-color bg_color #191716;
+@define-color fg_color #daba8b;
+@define-color selected_bg_color #898471;
+@define-color selected_bg_color1 #898471;
+@define-color selected_fg_color #65788f;
+@define-color base_color #191716;
+@define-color text_color #daba8b;
 
-@define-color border_color mix (#0f090c, #0f090c, .3);
-@define-color border_color1 mix (#0f090c, #ffffff, .31);
-@define-color insensitive_border_color mix (#0f090c, #0f090c, .3);
+@define-color border_color mix (#191716, #898471, .3);
+@define-color border_color1 mix (#191716, #ffffff, .31);
+@define-color insensitive_border_color mix (#191716, #898471, .3);
 
 @define-color info_fg_color rgb (181, 171, 156);
 @define-color info_bg_color rgb (252, 252, 189);
